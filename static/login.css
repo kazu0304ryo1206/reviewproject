@@ -1,0 +1,10 @@
+.form-signin{
+  width:300px;
+  text-align:center;
+  margin-left: 100px;
+}
+
+.form-control{
+  position:relative;
+  top:50px;
+}
